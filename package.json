@@ -26,7 +26,7 @@
     "unit": "node test/*.js"
   },
   "dependencies": {
-    "hash-base": "^3.0.0",
+    "hash-base": "git+https://github.com/kamalhunzai-dexive/hash-base.git",
     "inherits": "^2.0.1"
   },
   "devDependencies": {
